@@ -1,4 +1,4 @@
-# Generated on 06 June 2023 15:48:12
+# Generated on 06 June 2023 16:32:23
 /ip firewall address-list
 add list=FeodoTracker address=100.6.31.96
 add list=FeodoTracker address=103.109.247.10
@@ -10,13 +10,11 @@ add list=FeodoTracker address=103.144.201.48
 add list=FeodoTracker address=103.151.20.137
 add list=FeodoTracker address=103.233.103.85
 add list=FeodoTracker address=103.42.86.42
-add list=FeodoTracker address=103.87.128.228
 add list=FeodoTracker address=104.248.155.133
 add list=FeodoTracker address=104.35.24.154
 add list=FeodoTracker address=107.146.12.26
 add list=FeodoTracker address=109.130.247.84
 add list=FeodoTracker address=109.149.147.245
-add list=FeodoTracker address=109.50.149.241
 add list=FeodoTracker address=113.11.92.30
 add list=FeodoTracker address=114.143.176.236
 add list=FeodoTracker address=116.75.63.153
@@ -47,6 +45,7 @@ add list=FeodoTracker address=147.147.30.126
 add list=FeodoTracker address=147.219.4.194
 add list=FeodoTracker address=148.64.96.100
 add list=FeodoTracker address=151.62.238.176
+add list=FeodoTracker address=152.174.73.141
 add list=FeodoTracker address=159.65.3.147
 add list=FeodoTracker address=165.120.169.171
 add list=FeodoTracker address=173.176.4.133
@@ -68,6 +67,7 @@ add list=FeodoTracker address=184.181.75.148
 add list=FeodoTracker address=184.182.66.109
 add list=FeodoTracker address=184.189.41.80
 add list=FeodoTracker address=186.75.95.6
+add list=FeodoTracker address=190.141.193.170
 add list=FeodoTracker address=192.9.135.73
 add list=FeodoTracker address=192.99.150.39
 add list=FeodoTracker address=193.122.200.171
@@ -102,6 +102,7 @@ add list=FeodoTracker address=63.140.106.180
 add list=FeodoTracker address=63.140.106.181
 add list=FeodoTracker address=63.140.106.182
 add list=FeodoTracker address=63.140.106.183
+add list=FeodoTracker address=63.143.92.99
 add list=FeodoTracker address=64.121.161.102
 add list=FeodoTracker address=65.190.242.244
 add list=FeodoTracker address=65.30.139.145
@@ -114,6 +115,7 @@ add list=FeodoTracker address=67.209.195.198
 add list=FeodoTracker address=67.219.197.94
 add list=FeodoTracker address=67.70.21.62
 add list=FeodoTracker address=68.109.240.71
+add list=FeodoTracker address=68.14.195.55
 add list=FeodoTracker address=69.114.94.211
 add list=FeodoTracker address=70.160.67.203
 add list=FeodoTracker address=70.28.50.223
@@ -142,7 +144,7 @@ add list=FeodoTracker address=81.229.117.95
 add list=FeodoTracker address=82.127.153.75
 add list=FeodoTracker address=83.110.74.222
 add list=FeodoTracker address=83.249.198.100
-add list=FeodoTracker address=84.215.202.8
+add list=FeodoTracker address=84.216.198.201
 add list=FeodoTracker address=85.57.212.13
 add list=FeodoTracker address=86.173.2.12
 add list=FeodoTracker address=86.195.14.72
@@ -151,7 +153,6 @@ add list=FeodoTracker address=86.248.228.57
 add list=FeodoTracker address=87.221.153.182
 add list=FeodoTracker address=88.126.94.4
 add list=FeodoTracker address=89.101.97.139
-add list=FeodoTracker address=89.114.140.100
 add list=FeodoTracker address=89.115.200.234
 add list=FeodoTracker address=89.129.109.27
 add list=FeodoTracker address=89.158.150.253
