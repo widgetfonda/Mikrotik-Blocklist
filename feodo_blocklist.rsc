@@ -1,4 +1,4 @@
-# Generated on 07 June 2023 11:17:15
+# Generated on 07 June 2023 11:18:55
 /ip firewall address-list
 add list=FeodoTracker address=1.221.179.74
 add list=FeodoTracker address=100.6.31.96
